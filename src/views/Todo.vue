@@ -475,6 +475,6 @@ html .clear-completed:active {
 }
 
 .clear-completed:hover {
-  color: #000;
+  color: #fff;
 }
 </style>

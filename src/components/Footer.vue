@@ -12,5 +12,6 @@ export default {
 .b-footer {
   text-align: center;
   bottom: 0;
+  color: #fff;
 }
 </style>
