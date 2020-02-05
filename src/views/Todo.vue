@@ -150,7 +150,6 @@ export default {
       if (!value) {
         return;
       }
-      console.log(value);
       this.todos.push({
         id: store.uid++,
         title: value,
