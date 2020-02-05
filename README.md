@@ -1,5 +1,5 @@
 # Simple Todo App
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d5e190b9-ef58-49c1-94fb-ea9b4c54cab1/deploy-status)](https://app.netlify.com/sites/molo-todo/deploys)
 ## Project setup
 ```
 yarn install
