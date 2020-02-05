@@ -1,7 +1,29 @@
-# simple-todo
-A simple TODO app. Built with [Vue.js](vuejs.org)
-Uses
-* HTML 5
-* CSS 3
-* FortAwesome 
-* Google fonts
+# Simple Todo App
+
+## Project setup
+```
+yarn install
+```
+
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
+
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Run your unit tests
+```
+yarn test:unit
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
